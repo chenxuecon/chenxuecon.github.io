@@ -1,7 +1,8 @@
 ---
 title: "Research"
 permalink: /research/
-header:
-      images: "/images/StEd.jpg"
+title: "Research"
+author_profile: true
 ---
+
 My research area...
