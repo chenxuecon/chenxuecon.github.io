@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Chen Xu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/ChenXu.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a Visiting Assistant Professor of Economcis at St.Edward's University."
   location         : "Austin,TX"
   email            :
