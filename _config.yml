@@ -97,11 +97,11 @@ author:
   avatar           : "/images/ChenXu.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a Visiting Assistant Professor of Economcis at St.Edward's University."
   location         : "Austin,TX"
-  email            :
+  email            : cxu@stedwards.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       #url: "mailto:your.name@email.com"
+       url: "cxu@stedwards.edu"
         - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
