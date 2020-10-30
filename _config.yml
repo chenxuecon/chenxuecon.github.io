@@ -98,26 +98,7 @@ author:
   bio              : "I am a Visiting Assistant Professor of Economcis at St.Edward's University."
   location         : "Austin,TX"
   email            : cxu@stedwards.edu
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-       url: "cxu@stedwards.edu"
-        - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/chenxuecon"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
+  
 
 # Site Footer
 footer:
