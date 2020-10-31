@@ -5,5 +5,5 @@ title: "CV"
 author_profile: true
 ---
 
-Please find my CV at ()
+Please find my CV [here] (./CV_SEU.pdf) 
 
