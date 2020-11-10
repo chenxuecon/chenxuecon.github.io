@@ -13,10 +13,10 @@ author_profile: true
           
 **University of Okalhoma**
 ======
-* Summer 2019:
+* Summer 2019:\
           Econometric Analysis 
           
-* FALL 2017: 
+* FALL 2017: \
           Principles of Microeconomics 
           
           
