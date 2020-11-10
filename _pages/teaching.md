@@ -1,7 +1,7 @@
 ---
 layout: "archive"
 permalink: /teaching/
-title: "Teaching"
+title: ""
 author_profile: true
 ---
 **St.Edward's University** 
