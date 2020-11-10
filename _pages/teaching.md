@@ -6,9 +6,9 @@ author_profile: true
 ---
 **St.Edward's University** 
 ======
-* FALL 2020: /
-          Principles of Microeconomics (2 Sections) /
-          Principles of Macroeconomics /
+* FALL 2020: \
+          Principles of Microeconomics (2 Sections) \
+          Principles of Macroeconomics \
           Microeconomic Theory
           
 **University of Okalhoma**
