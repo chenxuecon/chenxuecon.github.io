@@ -10,11 +10,13 @@ author_profile: true
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Principles of Microeconomics (2 Sections) \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Labor Economics \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Econometric Analysis 
+
   
 * FALL 2020: \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Principles of Microeconomics (2 Sections) \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Principles of Macroeconomics \
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Microeconomic Theory
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Microeconomic Theory \
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   MBA Foundations
           
 **University of Oklahoma**
 ======
