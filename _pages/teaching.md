@@ -16,7 +16,7 @@ author_profile: true
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Principles of Macroeconomics \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Microeconomic Theory
           
-**University of Okalhoma**
+**University of Oklahoma**
 ======
 * Summer 2019:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Econometric Analysis 
