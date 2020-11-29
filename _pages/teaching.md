@@ -16,7 +16,7 @@ author_profile: true
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Principles of Microeconomics (2 Sections) \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Principles of Macroeconomics \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Microeconomic Theory \
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   MBA Foundations
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   MBA Foundations [[Syllabus]](https://github.com/chenxuecon/chenxuecon.github.io/blob/main/files/MBAF%206301%20Syllabus%20fall2020.pdf)
           
 **University of Oklahoma**
 ======
