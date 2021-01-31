@@ -9,7 +9,7 @@ author_profile: true
 * SPRING 2021: \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Principles of Microeconomics (2 Sections) \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Labor Economics  [[Course Materials]](https://github.com/chenxuecon/ECON-4341) \
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Econometric Analysis 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Econometric Analysis [[Syllabus]](https://github.com/chenxuecon/chenxuecon.github.io/blob/main/files/Spring2021_Syllabus_Econometrics.pdf)
 
   
 * FALL 2020: \
