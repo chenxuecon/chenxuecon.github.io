@@ -10,7 +10,7 @@ author_profile: true
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Principles of Microeconomics (2 Sections) \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Labor Economics  [[Course Materials]](https://github.com/chenxuecon/ECON-4341) \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Econometric Analysis [[Syllabus]](https://github.com/chenxuecon/chenxuecon.github.io/blob/main/files/Spring2021_Syllabus_Econometrics.pdf)
-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   MBA Foudations 
   
 * FALL 2020: \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Principles of Microeconomics (2 Sections) \
