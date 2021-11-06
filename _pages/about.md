@@ -8,6 +8,6 @@ redirect_from:
 ---
 I am an Assistant Professor of Economics at St.Edward's University. 
 
-My research interests include Partial Identification, Applied Microeconomics and Applied Econometrics.
+My research interests include Labor Economics and Applied Microeconomics.
 
 
