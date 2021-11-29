@@ -3,7 +3,7 @@ layout: "archive"
 permalink: /research/
 title: "Research"
 author_profile: true
-fontsize: 6pt
+fontsize: 4pt
 ---
 
 Publication
