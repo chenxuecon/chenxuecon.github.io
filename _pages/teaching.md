@@ -3,7 +3,7 @@ layout: "archive"
 permalink: /teaching/
 title: ""
 author_profile: true
-fontsize: 2pt
+fontsize: 0.45pt
 ---
 **St.Edward's University** 
 ======
