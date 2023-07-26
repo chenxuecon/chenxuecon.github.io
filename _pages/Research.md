@@ -12,9 +12,9 @@ fontsize: 0.5pt
 
 2. [Value of Statistical Life,Undervalued Cost of Occupational Injuries and Production Accidents](http://www.erj.cn/en/IssueInfo.aspx?m=20181008131700163948) with (Guosheng Zhang, Ying Chen, and Mingming Chen), 经济研究
 
-3. [Social Interactions and Cognitive Function among Older Adults in China] (https://zenodo.org/record/7855526) With (Ying Chen, [Yi Duan](https://www.marshall.edu/cob/profile/yi-duan/)), *Empirical Economics Letters*
+3. [Social Interactions and Cognitive Function among Older Adults in China](https://zenodo.org/record/7855526) With (Ying Chen, [Yi Duan](https://www.marshall.edu/cob/profile/yi-duan/)), *Empirical Economics Letters*
 
-4. [The economic value of language in China: How important is Mandarin proficiency in the Chinese labor market? A bounding approach] (https://www.sciencedirect.com/science/article/abs/pii/S0927537123000684)
+4. [The economic value of language in China: How important is Mandarin proficiency in the Chinese labor market? A bounding approach](https://www.sciencedirect.com/science/article/abs/pii/S0927537123000684)
 with ([Xiao Liu](https://econxiaoliu.weebly.com/)), *Labour Economics*, *forthcoming*
 
 
