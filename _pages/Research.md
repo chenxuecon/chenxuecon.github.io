@@ -15,7 +15,14 @@ fontsize: 0.5pt
 3. [Social Interactions and Cognitive Function among Older Adults in China](https://zenodo.org/record/7855526) With (Ying Chen, [Yi Duan](https://www.marshall.edu/cob/profile/yi-duan/)), *Empirical Economics Letters*
 
 4. [The economic value of language in China: How important is Mandarin proficiency in the Chinese labor market? A bounding approach](https://www.sciencedirect.com/science/article/abs/pii/S0927537123000684)
-with ([Xiao Liu](https://econxiaoliu.weebly.com/)), *Labour Economics*, *forthcoming*
+with ([Xiao Liu](https://econxiaoliu.weebly.com/)), *Labour Economics*
+
+5. [The Dynamics of Geopolitical Risk and Its Effects on Russia’s Economy: A
+Time-Varying Parameter SV-VAR Analysis](http://www.eel.my100megs.com/volume-23-number-6.htm) with (Qiang Liu and Chenzi Zeng), *Empirical Economics Letters*
+
+6. [Spillover Effect of Global Major Stock Markets - Comparative Analysis of
+Normal and Extreme States](https://www.mdpi.com/2227-7072/12/2/53?utm_campaign=releaseissue_ijfsutm_medium=emailutm_source=releaseissueutm_term=doilink23) with (Qiang Liu and [Jane Xie](https://www.stedwards.edu/directory/employees/xie-jane), *International Journal
+of Financial Studies*
 
 
 ## Working Papers
