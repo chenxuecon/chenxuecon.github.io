@@ -24,6 +24,9 @@ Time-Varying Parameter SV-VAR Analysis](http://www.eel.my100megs.com/volume-23-n
 Normal and Extreme States](https://www.mdpi.com/2227-7072/12/2/53?utm_campaign=releaseissue_ijfsutm_medium=emailutm_source=releaseissueutm_term=doilink23) with (Qiang Liu and [Jane Xie](https://www.stedwards.edu/directory/employees/xie-jane), *International Journal
 of Financial Studies*
 
+7. [The Economic return to English skills in China: a non-parametric bound
+approach](https://link.springer.com/article/10.1057/s41302-025-00296-7), *Eastern Economic Journal*
+
 
 ## Working Papers
 1. Non-parametric bounds on quantiles under monotonicity assumptions: an application on the return to language skills among Hispanics in U.S
