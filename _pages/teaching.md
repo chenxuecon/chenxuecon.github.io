@@ -15,7 +15,7 @@ fontsize: 0.45pt
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Labor Economics \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   The Economy of China  \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Econometric Analysis  \
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Special Topics in Economics \ 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Special Topics in Economics \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Introduction to R and Business Analytics (Master) \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Predictive Analytics (Master) \
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   MBA Foudations (Economics Module)
