@@ -33,11 +33,13 @@ TVP-SV-VAR Mode](https://link.springer.com/article/10.1007/s12197-025-09710-4) w
 9. [Analysis of Spillover Effects in China’s Financial Sub-markets Based upon R2
 Decomposed Connectedness Approach](https://www.tandfonline.com/doi/pdf/10.1080/13504851.2025.2471554?casa_token=AUyRoT0Lhj0AAAAA:AOD7wuQQsOzQOBQIikAYSyHUdqOAlKo4I7BlaOf2pHaARzMm4n2aIMuYwuyTu-5OsatUTLyvxkH6yg) with (Qiang Liu and Zhenwei Xu), *Applied Economics Letters*, 2025
 
+10. Asymmetric Spillovers of Climate Policy Uncertainty on Financial Markets: Evidence from China, Accepted, *Northe American Journal of Economics and Finance*
+
+
 
 ## Working Papers
 1. Non-parametric bounds on quantiles under monotonicity assumptions: an application on the return to language skills among Hispanics in U.S
-2. Asymmetric Spillovers of Climate Policy Uncertainty on Financial Markets: Evidence from China (*R&R*)
-3. Time and Frequency Domain Connectedness in China’s Commodity Futures Returns: A TVP-VAR Model Approach (*Under Review*)
-4. Dynamic Impact of Climate Policy Uncertainty on Global Energy and Shipping Prices (*Under Review*)
+2. Time and Frequency Domain Connectedness in China’s Commodity Futures Returns: A TVP-VAR Model Approach (*Under Review*)
+3. Dynamic Impact of Climate Policy Uncertainty on Global Energy and Shipping Prices (*Under Review*)
 
 
