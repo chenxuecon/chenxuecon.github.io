@@ -33,7 +33,7 @@ TVP-SV-VAR Mode](https://link.springer.com/article/10.1007/s12197-025-09710-4) w
 9. [Analysis of Spillover Effects in China’s Financial Sub-markets Based upon R2
 Decomposed Connectedness Approach](https://www.tandfonline.com/doi/pdf/10.1080/13504851.2025.2471554?casa_token=AUyRoT0Lhj0AAAAA:AOD7wuQQsOzQOBQIikAYSyHUdqOAlKo4I7BlaOf2pHaARzMm4n2aIMuYwuyTu-5OsatUTLyvxkH6yg) with (Qiang Liu and Zhenwei Xu), *Applied Economics Letters*, 2025
 
-10. Asymmetric Spillovers of Climate Policy Uncertainty on Financial Markets: Evidence from China, Accepted, *North American Journal of Economics and Finance*
+10. [Asymmetric Spillovers of Climate Policy Uncertainty on Financial Markets: Evidence from China](https://www.sciencedirect.com/science/article/pii/S1062940825001536?casa_token=5Im9xYdKtmIAAAAA:_tjCe7Nr_s93Rf44N3FOg0UxDtjoHlBdgQ5siTsH4cs8Dq059AiYQwJxx07ReALdaj0qJ_rY-Q), with (Qiang Liu and Ting Liu), *North American Journal of Economics and Finance*, 2025
 
 
 
